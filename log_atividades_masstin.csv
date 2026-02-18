@@ -1,0 +1,3 @@
+﻿Data;Técnico;Cliente;Equipamento;Tipo;Status;Horas;Frequencia;Temp_Ambiente;Temp_Externo;Bandeja_Dreno;Limpeza_Componentes;Controle_Remoto;Filtro_Retorno;Filtro_TAE
+09/02/2026;Maria Souza;ALCON;Split;Preventiva;Concluído;1.0;Mensal;23;33;OK;OK;OK;Limpo;Limpo
+18/02/2026;João Silva;EKURITO;Chiller;Preventiva;Concluído;0.5;;;;;;;;
